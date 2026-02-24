@@ -1,4 +1,4 @@
-# Student Data Organizer – Collection Manipulation System
+# Student Data Organizer – Collection Manipulation System (Python Project)
 
 ## Project Overview
 
